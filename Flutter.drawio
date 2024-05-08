@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T01:03:48.571Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" version="24.3.1" etag="lOIhTtYJF9hz-CkNP_ab" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T03:10:50.157Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:125.0) Gecko/20100101 Firefox/125.0" etag="PncM9y_PUwcXV6PV_IM9" version="24.3.1" type="github">
   <diagram name="Page-1" id="7TmuH-BrAPIpq9EhOLQQ">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3WqEiC77vL3zPsU8-O50-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="200" width="190" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.action_bar_landscape;fillColor=#1A1A1A;strokeColor=#c0c0c0;strokeWidth=2;fontColor=#FFFFFF;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="319" y="236" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.indeterminateSpinner;" vertex="1" parent="1">
+          <mxGeometry x="384" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.progressBar;strokeColor=#33b5e5;dx1=0.8;dx2=0.6;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="346.5" y="520" width="125" height="5" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-5" value="Connect" style="rounded=1;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;fillColor=#666666;align=center;strokeColor=#4D4D4D;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="356.25" y="450" width="105.5" height="16.88" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-6" value="Connection Method" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.spinner2;align=center;fillColor=#33b5e5;strokeColor=#33b5e5;verticalAlign=bottom" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="110" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-7" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.textfield;align=center;strokeColor=#33b5e5;pointerEvents=1" vertex="1" parent="1">
+          <mxGeometry x="371" y="410" width="108" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3WqEiC77vL3zPsU8-O50-9" value="Port/IP" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="319" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
