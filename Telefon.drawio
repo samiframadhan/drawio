@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T05:24:01.475Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="YQsIGrBEkhEwvs8EFJaP" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T07:26:00.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="S7E3Slf-3dy81RjlEOe2" version="24.4.9" type="github">
   <diagram name="Halaman-1" id="nd4GUK1Nv1EDLZ3BnNvm">
     <mxGraphModel dx="1434" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="vllZldJRxUBZDbL3YlYd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vllZldJRxUBZDbL3YlYd-1" target="iK5tBpwKK2hh5Ud7WsRW-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vllZldJRxUBZDbL3YlYd-1" value="Adapter Power SBC" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Power.svg;" parent="1" vertex="1">
+        <mxCell id="vllZldJRxUBZDbL3YlYd-1" value="Adapter Power SBC" style="image;aspect=fixed;html=1;points=[];align=left;fontSize=12;image=img/lib/azure2/general/Power.svg;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="570" y="591" width="44" height="68" as="geometry" />
         </mxCell>
         <mxCell id="X3TFHM1Gx5q65nHlK-Ig-1" value="Speaker" style="pointerEvents=1;verticalLabelPosition=middle;shadow=0;dashed=0;align=left;html=1;verticalAlign=middle;shape=mxgraph.electrical.electro-mechanical.loudspeaker;labelPosition=right;" vertex="1" parent="1">
@@ -54,6 +54,15 @@
         </mxCell>
         <mxCell id="X3TFHM1Gx5q65nHlK-Ig-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iK5tBpwKK2hh5Ud7WsRW-2" target="X3TFHM1Gx5q65nHlK-Ig-4">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="X3TFHM1Gx5q65nHlK-Ig-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.183;entryY=0.019;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="vllZldJRxUBZDbL3YlYd-1" target="X3TFHM1Gx5q65nHlK-Ig-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="592" y="710" />
+              <mxPoint x="222" y="710" />
+              <mxPoint x="222" y="573" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
